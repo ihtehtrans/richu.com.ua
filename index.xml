@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RiChu - Соєві Соуси on RiChu</title>
+    <link>https://richu.com.ua/</link>
+    <description>Recent content in RiChu - Соєві Соуси on RiChu</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>uk</language>
+    <atom:link href="https://richu.com.ua/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Про Нас</title>
+      <link>https://richu.com.ua/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://richu.com.ua/about/</guid>
+      <description>&lt;p&gt;Це сторінка Про Нас &lt;strong&gt;українською&lt;/strong&gt; мовою.&lt;/p&gt;
+&lt;p&gt;Будь ласка, майте терпіння, сайт в активній розробці.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

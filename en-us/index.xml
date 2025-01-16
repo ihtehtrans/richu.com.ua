@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RiChu - Soy Souces on RiChu</title>
+    <link>http://localhost:1313/en-us/</link>
+    <description>Recent content in RiChu - Soy Souces on RiChu</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en-us/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/en-us/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en-us/about/</guid>
+      <description>&lt;p&gt;This is the &lt;strong&gt;English&lt;/strong&gt; About page.&lt;/p&gt;
+&lt;p&gt;Please be patient; we are actively working on it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
