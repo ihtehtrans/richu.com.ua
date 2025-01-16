@@ -14,7 +14,29 @@
                 href="https://richu.com.ua/categories/"
                 />
   </url><url>
+    <loc>https://richu.com.ua/products/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://richu.com.ua/en/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://richu.com.ua/products/"
+                />
+  </url><url>
     <loc>https://richu.com.ua/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://richu.com.ua/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://richu.com.ua/"
+                />
   </url><url>
     <loc>https://richu.com.ua/tags/</loc>
     <xhtml:link
@@ -38,6 +60,42 @@
                 rel="alternate"
                 hreflang="uk"
                 href="https://richu.com.ua/about/"
+                />
+  </url><url>
+    <loc>https://richu.com.ua/products/product1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://richu.com.ua/en/products/product1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://richu.com.ua/products/product1/"
+                />
+  </url><url>
+    <loc>https://richu.com.ua/products/product2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://richu.com.ua/en/products/product2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://richu.com.ua/products/product2/"
+                />
+  </url><url>
+    <loc>https://richu.com.ua/products/product3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://richu.com.ua/en/products/product3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://richu.com.ua/products/product3/"
                 />
   </url>
 </urlset>

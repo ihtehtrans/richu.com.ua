@@ -26,6 +26,66 @@
                 href="https://richu.com.ua/en/categories/"
                 />
   </url><url>
+    <loc>https://richu.com.ua/en/products/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://richu.com.ua/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://richu.com.ua/en/products/"
+                />
+  </url><url>
+    <loc>https://richu.com.ua/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://richu.com.ua/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://richu.com.ua/en/"
+                />
+  </url><url>
+    <loc>https://richu.com.ua/en/products/product1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://richu.com.ua/products/product1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://richu.com.ua/en/products/product1/"
+                />
+  </url><url>
+    <loc>https://richu.com.ua/en/products/product2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://richu.com.ua/products/product2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://richu.com.ua/en/products/product2/"
+                />
+  </url><url>
+    <loc>https://richu.com.ua/en/products/product3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="uk"
+                href="https://richu.com.ua/products/product3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://richu.com.ua/en/products/product3/"
+                />
+  </url><url>
     <loc>https://richu.com.ua/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
